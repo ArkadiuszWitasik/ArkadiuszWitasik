@@ -1,6 +1,4 @@
-# Hi there 👋
-🌱 I’m currently learning Mobile development, mostly React Native + Expo go<br>
-
+# Hello 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ArkadiuszWitasik](https://www.linkedin.com/in/arkadiusz-witasik-4a641128b/)) 
