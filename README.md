@@ -1,2 +1,2 @@
 ### Hello
-I'm Arek, an aspiring DevOps engineer.
+I'm Arek, an aspiring Software Developer.
